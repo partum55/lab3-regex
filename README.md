@@ -32,7 +32,7 @@ The implementation uses a Finite State Machine approach where:
 ## How to Run
 
 ### Requirements
-- Python 3.6 or higher
+- Python 3.12
 
 ### Usage
 
